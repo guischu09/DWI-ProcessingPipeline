@@ -4,7 +4,7 @@ clc
 
 %% Specify raw data information(Edit):
 
-data_info.ProjectName = 'Memoria';
+data_info.ProjectName = '';
 data_info.NumberSlices.anat = 192;
 data_info.NumberSlices.dwi = 70;
 data_info.NumberVolumes.dwi = 79;
